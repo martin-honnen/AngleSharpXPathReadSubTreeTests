@@ -36,8 +36,8 @@
     <Reference Include="AngleSharp, Version=0.15.0.0, Culture=neutral, PublicKeyToken=e83494dcdc6d31ea, processorArchitecture=MSIL">
       <HintPath>..\packages\AngleSharp.0.15.0\lib\net472\AngleSharp.dll</HintPath>
     </Reference>
-    <Reference Include="AngleSharp.XPath, Version=1.1.7.0, Culture=neutral, PublicKeyToken=e83494dcdc6d31ea, processorArchitecture=MSIL">
-      <HintPath>..\packages\AngleSharp.XPath.1.1.7\lib\netstandard2.0\AngleSharp.XPath.dll</HintPath>
+    <Reference Include="AngleSharp.XPath, Version=1.1.5.0, Culture=neutral, PublicKeyToken=e83494dcdc6d31ea, processorArchitecture=MSIL">
+      <HintPath>..\packages\AngleSharp.XPath.1.1.5\lib\netstandard2.0\AngleSharp.XPath.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
