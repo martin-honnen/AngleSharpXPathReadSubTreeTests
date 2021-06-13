@@ -32,7 +32,7 @@ namespace AngleSharpXPathReadSubTreeTests
 
             var angleSharpDoc = await context.OpenAsync(req => req.Content(html));
 
-            using (XmlReader xr = angleSharpDoc.CreateNavigator(false).ReadSubtree())
+            using (XmlReader xr = angleSharpDoc.CreateNavigator(true).ReadSubtree())
             {
                 while (xr.Read())
                 {
